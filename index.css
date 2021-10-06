@@ -17,10 +17,12 @@ img {
 
 .menu {
     font-family: 'IBM Plex Sans', sans-serif;
-    text-align: center;
-    float: right;
-    margin: none;
-    background: #379c6f;
+    background-color: #379c6f;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-width: 0;
+    transition: none;
 }
 
 .icon {
