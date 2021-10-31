@@ -9,3 +9,7 @@
 * [🖼 Embeds](features/embeds.md)
 * [💬 Sticky Messages](features/sticky-messages.md)
 * [😄 Emojis](features/emojis.md)
+
+## ❓ FAQ
+
+* [⚠ Errors](faq/errors.md)
