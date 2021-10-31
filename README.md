@@ -8,3 +8,23 @@ To invite the bot use [this ](https://discord.com/api/oauth2/authorize?client\_i
 
 ### Guides:
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="features/tickets.md" %}
+[tickets.md](features/tickets.md)
+{% endcontent-ref %}
+
+{% content-ref url="features/embeds.md" %}
+[embeds.md](features/embeds.md)
+{% endcontent-ref %}
+
+{% content-ref url="features/sticky-messages.md" %}
+[sticky-messages.md](features/sticky-messages.md)
+{% endcontent-ref %}
+
+{% content-ref url="features/emojis.md" %}
+[emojis.md](features/emojis.md)
+{% endcontent-ref %}
+
