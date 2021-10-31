@@ -1,4 +1,4 @@
-# Welcome
+# 👋 Welcome
 
 Welcome to the official **Pepperbot** docs! Here you can learn how to get started with Pepperbot and how to use Pepperbot!
 
