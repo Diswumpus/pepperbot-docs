@@ -8,10 +8,6 @@ To invite the bot use [this ](https://discord.com/api/oauth2/authorize?client\_i
 
 ### Guides:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="features/tickets.md" %}
 [tickets.md](features/tickets.md)
 {% endcontent-ref %}
